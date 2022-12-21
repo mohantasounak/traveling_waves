@@ -25,5 +25,3 @@ path(path,genpath('my CircStat folder path/CircStat folder name'));
 Step 7: Run example_code.m
 # Data description
 Electrocorticigraphy (ECoG) dataset with 62 grid electrodes (data.label). Registered to Human Connectome Project atlas (data.label2).
-
-
