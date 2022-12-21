@@ -6,7 +6,7 @@ This script (tested on Matlab 2018a) uses the Fieldtrip toolbox (Oostenveld et a
 # Installation
 Step 1: Download Fieldtrip from https://www.fieldtriptoolbox.org/download/
 
-Step 2: Load example_code.m in Matlab editor. This is an example script on how to calculate traveling wave across electrodes and can be used as a template. Traveling waves are calculated with respect to the ventro-posterior most electrodes phase.
+Step 2: Load example_code.m in Matlab editor. This is an example script on how to calculate traveling wave across electrodes and can be used as a template. Traveling waves are calculated with respect to the ventro-posterior most electrode's phase.
 
 Step 3: Change Fieldtrip file path in example_code.m
 ```
