@@ -1,7 +1,7 @@
 # Traveling_waves
 Example code and functions to calculate traveling waves for neural time series.
 
-This script (tested on Matlab 2018a) uses the Fieldtrip toolbox (Oostenveld et al. 2011), CircStat toolbox (Berens 2009). Analysis pipline adapted from Halgren et al. 2017.
+This script (tested on Matlab 2018a) uses the Fieldtrip toolbox (Oostenveld et al. 2011), CircStat toolbox (Berens 2009). Analysis pipeline adapted from Halgren et al. 2017.
 
 # Installation
 Step 1: Download Fieldtrip from https://www.fieldtriptoolbox.org/download/
@@ -24,4 +24,4 @@ path(path,genpath('my CircStat folder path/CircStat folder name'));
 ```
 Step 7: Run example_code.m
 # Data description
-Electrocorticigraphy (ECoG) dataset with 62 grid electrodes (data.label). Registered to Human Connectome Project atlas (data.label2).
+Electrocorticigraphy (ECoG) dataset with 62 grid electrodes (data.label). Registered to Human Connectome Project atlas (data.label2). Data in Fieldtrip format.
